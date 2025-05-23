@@ -1,0 +1,10 @@
+
+.env
+Ollama.app
+Resources/
+Ollama.app/
+venv/
+*.dylib.venv/
+.env
+Ollama.app/
+*.dylib
